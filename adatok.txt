@@ -1,0 +1,32 @@
+Magyar Tamás;10.A;Matematika;4
+Miklós-Vittay Tamás Attila;10.A;Irodalom;3
+Nagy András;10.A;Irodalom;4
+Nakov Emánuel;10.A;Matematika;3
+Németi Marcell;10.A;Irodalom;5
+Orosz Petra;10.A;Történelem;4
+Paulovics Marcell Norbert;10.A;Történelem;5
+Rácz Botond;10.A;Matematika;5
+Seres Dániel;10.A;Irodalom;3
+Strasszer Zsombor;10.A;Történelem;4
+Szabó Marcell János;10.A;Történelem;5
+Szücs András Bogdán;10.A;Irodalom;5
+Tavas Tamara;10.A;Matematika;5
+Tóth Márton;10.A;Történelem;4
+Zsirkó Dániel Attila;10.A;Irodalom;3
+Zsoldos Péter;10.A;Matematika;5
+Juhász Tamás Zoltán;10.B;Történelem;5
+Kari Dávid Márk;10.B;Matematika;4
+Király Marcell;10.B;Irodalom;5
+Kozári Zsolt Tibor;10.B;Matematika;3
+Lakner Máté;10.B;Irodalom;4
+Magyar Jázmin;10.B;Matematika;5
+Matus Gergely István;10.B;Irodalom;5
+Mojzer Vince;10.B;Matematika;4
+Müller Enikő;10.B;Történelem;5
+Petró Dominik;10.B;Matematika;3
+Pusztai Péter Benjámin;10.B;Irodalom;4
+Rukrigel Patrik;10.B;Matematika;3
+Simonfi András Mátyás;10.B;Történelem;4
+Teleki Armond Márió;10.B;Matematika;3
+Tircsi Kolos Mátyás;10.B;Irodalom;4
+Tóth Márk;10.B;Matematika;5
